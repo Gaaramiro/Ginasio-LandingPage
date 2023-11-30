@@ -1,7 +1,7 @@
 # Ginasio-LandingPage
 
 Link para ver o site:
-https://gaaramiro.github.io/Ginasio-LandingPage/](https://gaaramiro.github.io/Ginasio-LandingPage/
+https://gaaramiro.github.io/Ginasio-LandingPage
 
 <div align="center">
 
